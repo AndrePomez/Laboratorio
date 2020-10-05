@@ -1,1 +1,4 @@
-suma 2+4
+La tabla de multiplicar del 5
+5x0 = 0
+5x1 = 1
+5x2 = 2
